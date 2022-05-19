@@ -7,4 +7,4 @@ One day I came uppon a tutorial showing a cool batch script and I was really ama
 
 The program was super slow and badly designed but I would say it marked the begining of my career!
 
-I also included a more modern python implementation 
+I also included a more recent python implementation 
